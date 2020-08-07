@@ -1,0 +1,59 @@
+https://www.youtube.com/watch?v=iMAE46Q-zII&fbclid=IwAR3IPNZfPgsWJmXeRqeUQ2K6pSRAmP7wuElS8Hd8b1ILm_iuR4KWASvM4HY
+
+###################################################################################################################################################################
+
+https://www.youtube.com/watch?v=WQeoO7MI0Bs&fbclid=IwAR1q1oEUc4v4TqzfIaBSz8K3uSb3f_iLeFIeTQzt-iDk63atDg1wXhuzN5Q
+
+#OpenCV#Python#ComputerVision
+
+https://www.murtazahassan.com/learn-opencv-3hours/
+
+Time Stamps:
+2:17 Introduction to Images
+4:37  Installations
+	https://www.python.org/downloads/release/python-376/
+	https://www.jetbrains.com/fr-fr/pycharm/download/
+
+9:09 Chapter 1 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-1/
+17:01 Chapter 2 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-2/
+27:31 Chapter 3 https://www.murtazahassan.com/chapter-3/
+34:12 Chapter 4 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-4/
+44:59 Chapter 5 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-5/
+50:04 Chapter 6 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-6/
+56:14 Chapter 7 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-7/
+1:15:37 Chapter 8 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-7-2/
+1:40:31 Chapter 9 https://www.murtazahassan.com/learn-opencv-in-3-hours-chapter-9/
+
+1:46:03 Project 1 https://www.murtazahassan.com/learn-opencv-in-3-hours-project-1/
+2:15:45 Project 2 https://www.murtazahassan.com/learn-opencv-in-3-hours-project-2/
+2:56:34 Project 3 https://www.murtazahassan.com/learn-opencv-in-3-hours-project-3/
+
+Thumbnail image:
+https://generated.photos/
+
+
+If you are facing any errors while following the tutorial search for the error at the Error forum. If its not already there add a new post.
+Error Forum Link: https://www.murtazahassan.com/forum-2/
+
+Useful Links:
+DC Motors + Wheels + Chassis: https://amzn.to/2SCZon3
+DC Motors + Wheels: https://amzn.to/2QeEusw
+Arduino UNO: https://amzn.to/2QdKthB
+Motor Driver: https://amzn.to/35grl6x
+Battery: https://amzn.to/2Fadc0c
+Recommend Webcam for Computer Vision: https://amzn.to/2MNtVKZ
+Budget Webcam: https://amzn.to/2ZP47Ug
+Cheap Drone for OpenCV: https://amzn.to/2TZpsJy
+Raspberry Pi 4 Best Starter Kit:  https://amzn.to/2YVCEkL
+Raspberry Pi Recommended Battery: https://amzn.to/2C0I9pl
+Raspberry Pi Camera: https://amzn.to/2BDFcLF
+Raspberry Pi Wide Lens: https://amzn.to/2NQH5qD
+More powerful Raspberry Pi alternative: https://amzn.to/3eY3AWN 
+
+
+More Project Tutorials:
+Optical Mark Recognition (OMR): https://youtu.be/0IqCOPlGBTs
+Digits Classification/Recognition Using CNN: https://youtu.be/y1ZrOs9s2QA
+Traffic Signs Classification: https://youtu.be/SWaYRyi0TTs
+Custom Object Detection: https://youtu.be/dZ4itBvIjVY
+Curved Lane Detection: https://youtu.be/-RuWTwDlot8
