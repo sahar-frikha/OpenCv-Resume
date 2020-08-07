@@ -1,6 +1,6 @@
 # OpenCv-Resume
 # Chapters : 
-1- Read Images Videos and Webcams
+1- Read Images Videos and Webcams //
 2- Basic Functions
 3- Resizing and cropping
 4- Shapes and Text
