@@ -1,15 +1,15 @@
 # OpenCv-Resume
 # Chapters : 
-1- Read Images Videos and Webcams //
-2- Basic Functions
-3- Resizing and cropping
-4- Shapes and Text
-5- Warp Perspective
-6- Joining Images
-7- Color detection
-8- Contour / Shape Detection
-9- Face Detection
-#Projects
-1- Virtual Paint
-2- Paper Scanner
-3- Number Plate Detector
+1- Read Images Videos and Webcams <br/>
+2- Basic Functions<br/>
+3- Resizing and cropping<br/>
+4- Shapes and Text<br/>
+5- Warp Perspective<br/>
+6- Joining Images<br/>
+7- Color detection<br/>
+8- Contour / Shape Detection<br/>
+9- Face Detection<br/>
+#Projects<br/>
+1- Virtual Paint<br/>
+2- Paper Scanner<br/>
+3- Number Plate Detector<br/>
